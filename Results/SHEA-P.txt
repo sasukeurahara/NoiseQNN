@@ -1,0 +1,101 @@
+
+--- Evaluation Report ---
+Noise Type: Depolarizing
+Noise Probability: 0.0
+Number of Qubits: 2
+MSE:  0.0986
+RMSE: 0.3139
+MAE:  0.2395
+R²:   0.5894
+Inference time per sample: 4.6119 ms
+
+--- Evaluation Report ---
+Noise Type: Depolarizing
+Noise Probability: 0.01
+Number of Qubits: 2
+MSE:  0.0997
+RMSE: 0.3157
+MAE:  0.2457
+R²:   0.5848
+Inference time per sample: 4.5547 ms
+
+--- Evaluation Report ---
+Noise Type: Depolarizing
+Noise Probability: 0.05
+Number of Qubits: 2
+MSE:  0.1055
+RMSE: 0.3248
+MAE:  0.2716
+R²:   0.5603
+Inference time per sample: 4.5777 ms
+
+--- Evaluation Report ---
+Noise Type: Depolarizing
+Noise Probability: 0.1
+Number of Qubits: 2
+MSE:  0.1152
+RMSE: 0.3393
+MAE:  0.3019
+R²:   0.5202
+Inference time per sample: 4.5120 ms
+
+--- Evaluation Report ---
+Noise Type: Depolarizing
+Noise Probability: 0.3
+Number of Qubits: 2
+MSE:  0.1689
+RMSE: 0.4109
+MAE:  0.4038
+R²:   0.2964
+Inference time per sample: 4.6695 ms
+
+--- Evaluation Report ---
+Noise Type: AmplitudeDamping
+Noise Probability: 0.0
+Number of Qubits: 2
+MSE:  0.0991
+RMSE: 0.3147
+MAE:  0.2422
+R²:   0.5873
+Inference time per sample: 4.7914 ms
+
+--- Evaluation Report ---
+Noise Type: AmplitudeDamping
+Noise Probability: 0.01
+Number of Qubits: 2
+MSE:  0.0993
+RMSE: 0.3152
+MAE:  0.2440
+R²:   0.5862
+Inference time per sample: 4.7634 ms
+
+
+--- Evaluation Report ---
+Noise Type: AmplitudeDamping
+Noise Probability: 0.05
+Number of Qubits: 2
+MSE:  0.1025
+RMSE: 0.3201
+MAE:  0.2585
+R²:   0.5730
+Inference time per sample: 4.8665 ms
+
+--- Evaluation Report ---
+Noise Type: AmplitudeDamping
+Noise Probability: 0.1
+Number of Qubits: 2
+MSE:  0.1087
+RMSE: 0.3298
+MAE:  0.2812
+R²:   0.5469
+Inference time per sample: 5.1085 ms
+
+--- Evaluation Report ---
+Noise Type: AmplitudeDamping
+Noise Probability: 0.3
+Number of Qubits: 2
+MSE:  0.1513
+RMSE: 0.3889
+MAE:  0.3666
+R²:   0.3698
+Inference time per sample: 4.7889 ms
